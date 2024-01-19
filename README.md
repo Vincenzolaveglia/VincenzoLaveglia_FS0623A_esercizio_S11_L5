@@ -8,3 +8,5 @@
 ## `npm i react-router-dom`
 
 ## L'applicazione non è completa nelle sue funzionalità, causa mancanza di tempo avendo avuto problemi non è possibile cercare brani e non è abilitato il player 
+
+## L'applicazione è responsive
